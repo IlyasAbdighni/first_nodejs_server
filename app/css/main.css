@@ -1,0 +1,7 @@
+body div {
+  margin: 40px; }
+
+body img {
+  height: 24px;
+  -webkit-filter: invert(1);
+          filter: invert(1); }
